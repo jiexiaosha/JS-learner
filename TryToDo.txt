@@ -1,2 +1,2 @@
-2024/12/3:
-I want to make a rotating chart
+2024/12/2:
+I want to make a rotating chart tomorrowgit push
